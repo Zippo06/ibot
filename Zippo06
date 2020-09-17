@@ -1,0 +1,37 @@
+// == UserScript ==
+// @name iBot
+// @version 1.0.0
+// @ açıklama iBot, iPraiser
+// @author Neon - Sizrex - MrSonicMaster - NuclearC - StrikerJS - Nebula ... edit by iPraiser
+// @match *: //agar.io/*
+// @ hiçbiri
+// @ belgenin başlangıcında çalıştır
+// @icon https://raw.githubusercontent.com/iPraiser44/ibot/master/lokumedit.jpg
+// @ talep https://raw.githubusercontent.com/iPraiser44/ibot/master/script.js
+// == / UserScript ==
+
+/ *
+   NuclearC - MrSonicMaster'a özel teşekkürler onlarsız burada olmazdım
+   AgarUnlimited v2.5 Olası / Ünlü yapmak için Sizrex'e teşekkürler
+   Premium Botlar için OP-Bots.com'a bakın
+* /
+
+/ *
+   MIT Lisansı (MIT)
+   Telif Hakkı (c) 2019 Neon
+   Bu vesileyle, bir kopyasını alan herhangi bir kişiye ücretsiz olarak izin verilmektedir.
+   bu yazılımın ve ilgili belge dosyalarının ("Yazılım")
+   Yazılımda, haklar dahil ancak bunlarla sınırlı olmamak üzere, kısıtlama olmaksızın
+   kullanmak, kopyalamak, değiştirmek, birleştirmek, yayınlamak, dağıtmak, alt lisans vermek ve / veya satmak
+   Yazılımın kopyaları ve Yazılımın bulunduğu kişilere izin vermek için
+   aşağıdaki koşullara tabi olarak bu şekilde döşenmiştir:
+   Yukarıdaki telif hakkı bildirimi ve bu izin bildirimi tüm
+   Yazılımın kopyaları veya önemli bölümleri.
+   YAZILIM AÇIK VEYA HERHANGİ BİR GARANTİ OLMAKSIZIN "OLDUĞU GİBİ" SAĞLANMAKTADIR.
+   TİCARİ ELVERİŞLİLİK GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE ZIMNİ,
+   BELİRLİ BİR AMACA UYGUNLUK VE İHLAL ETMEME. HİÇBİR DURUMDA
+   YAZARLAR VEYA TELİF HAKKI SAHİPLERİ HERHANGİ BİR TALEP, ZARAR VEYA DİĞER
+   SÖZLEŞME, HAKİM VEYA BAŞKA ŞEKİLDE KAYNAKLANAN SORUMLULUK,
+   YAZILIM VEYA KULLANIM VEYA DİĞER ANLAŞMALARLA BAĞLANTILI YA DA
+   YAZILIM.
+* /
